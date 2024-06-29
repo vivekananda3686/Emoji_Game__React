@@ -1,0 +1,24 @@
+/* Write your code here. */
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #ffffff33;
+  height: 8vh;
+  padding: 8px;
+}
+
+.nav-image {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-para {
+  color: #ffffff;
+  font-size: 30px;
+}

@@ -1,0 +1,49 @@
+/* Write your code here. */
+
+.main-container {
+  background-image: linear-gradient(to Right, #9796f0, #fbc7d4);
+  height: 100vh;
+  width: 100vw;
+}
+
+.emojis-list-class {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.win-card {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  padding: 100px;
+  margin-top: 25%;
+  margin-left: 25%;
+  height: 70vh;
+  width: 70vw;
+}
+
+.winning {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.won-heading {
+  font-weight: bold;
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+.span {
+  color: #9796f0;
+  font-weight: bold;
+}
+
+.playAgain {
+  background-color: #ffce27;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  color: #ffffff;
+}
